@@ -1,3 +1,4 @@
+/*Given by Dr. Mood*/
 #include "Card.h"
 
 Card::Card(int num, Color c)
