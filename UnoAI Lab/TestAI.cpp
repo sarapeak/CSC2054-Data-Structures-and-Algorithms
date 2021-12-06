@@ -1,3 +1,4 @@
+/*Given by Dr. Mood to see how the other AI's play, the foundation for our AI*/
 #include "TestAI.h"
 
 #include <iostream>
